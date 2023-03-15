@@ -1,4 +1,4 @@
-#Twitch-Search
+# Twitch-Search
 
 A Personalized Twitch Resources Recommendation Engine
 
